@@ -2,8 +2,8 @@ name: Website Change Detector
 
 on:
   schedule:
-    # Runs every day at 9:00 AM Eastern (13:00 UTC)
-    - cron: "0 13 * * *"
+    # Runs every day at 6:00 AM Eastern DST (10:00 UTC)
+    - cron: "0 10 * * *"
   workflow_dispatch: {}  # lets you trigger manually from the Actions tab
 
 permissions:
