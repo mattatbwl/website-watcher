@@ -43,7 +43,11 @@ def extract_text(html: str, site: dict) -> str:
         tag.decompose()
 
     full_text = soup.get_text("\n", strip=True)
-    lines = [l for l in full_text.split("\n") if l.strip()]
+    # Normalize whitespace (collapse runs of spaces/tabs and non-breaking
+    # spaces) so marker matching isn't thrown off by invisible characters
+    # that don't show up when eyeballing the page.
+    raw_lines = full_text.replace("\xa0", " ").split("\n")
+    lines = [" ".join(l.split()) for l in raw_lines if l.strip()]
 
     mode = site.get("mode", "full_text")
     if mode == "full_text":
@@ -53,13 +57,16 @@ def extract_text(html: str, site: dict) -> str:
         start_marker = site["start_marker"]
         end_marker = site["end_marker"]
         try:
-            start_idx = next(i for i, l in enumerate(lines) if l == start_marker)
+            start_idx = next(
+                i for i, l in enumerate(lines) if start_marker in l
+            )
         except StopIteration:
             print(f"WARNING [{site['id']}]: start marker not found, using full body")
             return "\n".join(lines)
         try:
             end_idx = next(
-                i for i, l in enumerate(lines) if l == end_marker and i > start_idx
+                i for i, l in enumerate(lines)
+                if end_marker in l and i > start_idx
             )
         except StopIteration:
             print(f"WARNING [{site['id']}]: end marker not found, taking 60 lines")
