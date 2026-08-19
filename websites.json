@@ -2,9 +2,23 @@
   "sites": [
     {
       "id": "grants-gov-362005",
-      "name": "Federal Grant #362005",
+      "name": "HUD CPD-2600-DC-0098",
       "url": "https://grants.gov/search-results-detail/362005",
-      "notes": "Estimated posting: June 2, 2026",
+      "notes": "FY26 Pathways to Removing Obstacles to Housing (PRO Housing)",
+      "mode": "full_text"
+    },
+    {
+      "id": "grants-gov-362364",
+      "name": "HUD PDR-2600-DC-0USP",
+      "url": "https://www.grants.gov/search-results-detail/362364",
+      "notes": "Authority to Accept Unsolicited Proposals for Research Partnerships Notice of Intent (NOI)",
+      "mode": "full_text"
+    },
+    {
+      "id": "NSF-23-510",
+      "name": "NSF Improving Undergraduate STEM Education",
+      "url": "https://www.nsf.gov/funding/opportunities/iuse-edu-improving-undergraduate-stem-education-directorate-stem",
+      "notes": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
       "mode": "full_text"
     },
     {
