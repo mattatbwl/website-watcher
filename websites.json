@@ -15,6 +15,42 @@
       "mode": "anchored_text",
       "start_marker": "RBC Research",
       "end_marker": "About PD&R"
+    },
+    {
+      "id": "huduser-whatsnew-research-reports",
+      "name": "HUD User - Whats New - Research and Reports",
+      "url": "https://www.huduser.gov/portal/whatsnew/whatsnew.html#RR",
+      "notes": "Watching for new research postings under Whats New - Research and Reports",
+      "mode": "anchored_text",
+      "start_marker": "Research & Reports",
+      "end_marker": "About PD&R"
+    },
+    {
+      "id": "huduser-whatsnew-housingmkt-reports",
+      "name": "HUD User - Whats New - Housing Market Reports",
+      "url": "https://www.huduser.gov/portal/whatsnew/whatsnew.html#HMC",
+      "notes": "Watching for new research postings under Whats New - Housing Market Reports",
+      "mode": "anchored_text",
+      "start_marker": "Housing Market Reports",
+      "end_marker": "About PD&R"
+    },
+    {
+      "id": "huduser-whatsnew-data",
+      "name": "HUD User - Whats New - Data",
+      "url": "https://www.huduser.gov/portal/whatsnew/whatsnew.html#data",
+      "notes": "Watching for new research postings under Whats New - Data",
+      "mode": "anchored_text",
+      "start_marker": "Data",
+      "end_marker": "About PD&R"
+    },
+    {
+      "id": "huduser-whatsnew-announce",
+      "name": "HUD User - Whats New - Announcements",
+      "url": "https://www.huduser.gov/portal/whatsnew/whatsnew.html#announce",
+      "notes": "Watching for new research postings under Whats New - Announcements",
+      "mode": "anchored_text",
+      "start_marker": "Announcements",
+      "end_marker": "About PD&R"
     }
   ]
 }
