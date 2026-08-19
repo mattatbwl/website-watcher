@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-19T21:47:22+00:00",
+  "generated_at": "2026-08-19T21:55:01+00:00",
   "sites": [
     {
       "id": "grants-gov-362005",
       "name": "Federal Grant #362005",
       "url": "https://grants.gov/search-results-detail/362005",
       "notes": "Estimated posting: June 2, 2026",
-      "last_checked": "2026-08-19T21:47:22+00:00",
+      "last_checked": "2026-08-19T21:55:01+00:00",
       "last_changed": null,
-      "state": "baseline",
+      "state": "unchanged",
       "error": null
     },
     {
@@ -16,9 +16,9 @@
       "name": "HUD RBC Research Page",
       "url": "https://www.huduser.gov/portal/rbc/research.html",
       "notes": "Watching for new research postings under the RBC Research heading",
-      "last_checked": "2026-08-19T21:47:22+00:00",
+      "last_checked": "2026-08-19T21:55:01+00:00",
       "last_changed": null,
-      "state": "baseline",
+      "state": "unchanged",
       "error": null
     }
   ]
