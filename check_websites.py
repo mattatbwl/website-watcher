@@ -44,8 +44,7 @@ def extract_text(html: str, site: dict) -> str:
 
     full_text = soup.get_text("\n", strip=True)
     # Normalize whitespace (collapse runs of spaces/tabs and non-breaking
-    # spaces) so marker matching isn't thrown off by invisible characters
-    # that don't show up when eyeballing the page.
+    # spaces) so marker matching isn't thrown off by invisible characters.
     raw_lines = full_text.replace("\xa0", " ").split("\n")
     lines = [" ".join(l.split()) for l in raw_lines if l.strip()]
 
@@ -56,31 +55,51 @@ def extract_text(html: str, site: dict) -> str:
     if mode == "anchored_text":
         start_marker = site["start_marker"]
         end_marker = site["end_marker"]
-        try:
-            start_idx = next(
-                i for i, l in enumerate(lines) if start_marker in l
-            )
-        except StopIteration:
+
+        # Search across the whole page as ONE normalized string, not
+        # line-by-line. Line-based matching breaks if the heading's text
+        # gets split across a line boundary by nested markup (e.g. an
+        # icon or hidden span sitting between words of the heading).
+        joined = " ".join(lines)
+
+        start_pos = joined.find(start_marker)
+        if start_pos == -1:
             print(f"WARNING [{site['id']}]: start marker not found, using full body")
+            print(f"DEBUG [{site['id']}] extracted text length: {len(joined)} chars")
+            print(f"DEBUG [{site['id']}] first 800 chars of extracted text:")
+            print(joined[:800])
+            print(f"DEBUG [{site['id']}] last 400 chars of extracted text:")
+            print(joined[-400:])
             return "\n".join(lines)
-        try:
-            end_idx = next(
-                i for i, l in enumerate(lines)
-                if end_marker in l and i > start_idx
-            )
-        except StopIteration:
-            print(f"WARNING [{site['id']}]: end marker not found, taking 60 lines")
-            end_idx = min(start_idx + 60, len(lines))
-        return "\n".join(lines[start_idx:end_idx])
+
+        end_pos = joined.find(end_marker, start_pos + len(start_marker))
+        if end_pos == -1:
+            print(f"WARNING [{site['id']}]: end marker not found, taking 1500 chars")
+            end_pos = min(start_pos + 1500, len(joined))
+
+        return joined[start_pos:end_pos].strip()
 
     raise ValueError(f"Unknown mode '{mode}' for site {site['id']}")
 
 
 def fetch(site: dict) -> str:
-    resp = requests.get(
-        site["url"], timeout=30, headers={"User-Agent": "Mozilla/5.0"}
-    )
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept": (
+            "text/html,application/xhtml+xml,application/xml;q=0.9,"
+            "image/webp,*/*;q=0.8"
+        ),
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+    resp = requests.get(site["url"], timeout=30, headers=headers)
     resp.raise_for_status()
+    print(
+        f"[{site['id']}] fetched {len(resp.text)} chars, "
+        f"HTTP {resp.status_code}, final URL: {resp.url}"
+    )
     return extract_text(resp.text, site)
 
 
