@@ -1,0 +1,20 @@
+{
+  "sites": [
+    {
+      "id": "grants-gov-362005",
+      "name": "Federal Grant #362005",
+      "url": "https://grants.gov/search-results-detail/362005",
+      "notes": "Estimated posting: June 2, 2026",
+      "mode": "full_text"
+    },
+    {
+      "id": "hud-rbc-research",
+      "name": "HUD RBC Research Page",
+      "url": "https://www.huduser.gov/portal/rbc/research.html",
+      "notes": "Watching for new research postings under the RBC Research heading",
+      "mode": "anchored_text",
+      "start_marker": "RBC Research",
+      "end_marker": "About PD&R"
+    }
+  ]
+}
