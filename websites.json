@@ -1,6 +1,20 @@
 {
   "sites": [
     {
+      "id": "NSF STC",
+      "name": "NSF Science and Technology Centers",
+      "url": "https://www.nsf.gov/od/oia/ia/stc",
+      "notes": "Science and Technology Centers: Integrative Partnerships",
+      "mode": "full_text"
+    },
+    {
+      "id": "NSF STC - Funding Opportunities",
+      "name": "NSF Science and Technology Centers - NSF 24-594",
+      "url": "https://www.nsf.gov/funding/opportunities/science-technology-centers-integrative-partnerships",
+      "notes": "Science and Technology Centers: Integrative Partnerships",
+      "mode": "full_text"
+    },
+    {
       "id": "grants-gov-362005",
       "name": "HUD CPD-2600-DC-0098",
       "url": "https://grants.gov/search-results-detail/362005",
