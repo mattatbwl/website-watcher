@@ -1,6 +1,34 @@
 {
   "sites": [
     {
+      "id": "DU Center for Housing",
+      "name": "University of Denver - Center for Housing Research and Innovative Solutions (CHRIS)",
+      "url": "https://www.du.edu/center-for-housing",
+      "notes": "Solomon Greene - Founding Executive Director, CHRIS at University of Denver",
+      "mode": "full_text"
+    },
+     {
+      "id": "DU Center for Housing - team",
+      "name": "University of Denver - Center for Housing Research and Innovative Solutions (CHRIS)",
+      "url": "https://www.du.edu/center-for-housing/team",
+      "notes": "Solomon Greene - Founding Executive Director, CHRIS at University of Denver",
+      "mode": "full_text"
+    },
+     {
+      "id": "DU Center for Housing - news",
+      "name": "University of Denver - Center for Housing Research and Innovative Solutions (CHRIS)",
+      "url": "https://www.du.edu/center-for-housing/news",
+      "notes": "Solomon Greene - Founding Executive Director, CHRIS at University of Denver",
+      "mode": "full_text"
+    },
+     {
+      "id": "DU Center for Housing - research",
+      "name": "University of Denver - Center for Housing Research and Innovative Solutions (CHRIS)",
+      "url": "https://www.du.edu/center-for-housing/research",
+      "notes": "Solomon Greene - Founding Executive Director, CHRIS at University of Denver",
+      "mode": "full_text"
+    },
+    {
       "id": "NSF STC",
       "name": "NSF Science and Technology Centers",
       "url": "https://www.nsf.gov/od/oia/ia/stc",
