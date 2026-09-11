@@ -1,6 +1,13 @@
 {
   "sites": [
     {
+      "id": "DHUD 2026 IHS - Educational Panels",
+      "name": "HUD 2026 IHS - Educational Panels",
+      "url": "https://www.huduser.gov/portal/event/ihs2026.html",
+      "notes": "More information to come – check back soon!",
+      "mode": "full_text"
+    },
+    {
       "id": "DU Center for Housing",
       "name": "DU Center for Housing Research and Innovative Solutions (CHRIS)",
       "url": "https://www.du.edu/center-for-housing",
