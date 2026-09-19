@@ -96,7 +96,6 @@ International Science & Engineering (OISE)
 Mathematical & Physical Sciences (MPS)
 Social, Behavioral & Economic Sciences (SBE)
 STEM Education (EDU)
-Technology, Innovation & Partnerships (TIP)
 National Center for Science & Engineering Statistics (NCSES)
 National Science Board (NSB)
 Science and Technology Centers: Integrative Partnerships
