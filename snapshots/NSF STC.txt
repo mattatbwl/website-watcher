@@ -141,7 +141,9 @@ The STC program was established by the National Science Board in 1987, and the f
 Over its history, the STC portfolio has invested in creating new scientific and technological models in a wide variety of topics across NSF areas of research. Together, the active and graduated centers demonstrate the program's long-standing investment, as indicated in the links below.
 Active centers
 Class of 2026
-Center for Transformative Explorations in Multi-Physics and Engineering of Scientific Turbulence (TEMPEST), Award
+Center for Transformative Explorations in Multi-Physics and Engineering of Scientific Turbulence
+(TEMPEST)
+, Award
 2535317
 Center for Genome Intelligence Engineering (GENIE), Award
 2535350
@@ -659,7 +661,7 @@ Top
 Publication date:
 June 30, 2022
 Last updated:
-August 26, 2026
+September 23, 2026
 Randolph Building
 401 Dulany Street
 Alexandria, VA 22314
