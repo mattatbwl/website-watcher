@@ -96,6 +96,7 @@ International Science & Engineering (OISE)
 Mathematical & Physical Sciences (MPS)
 Social, Behavioral & Economic Sciences (SBE)
 STEM Education (EDU)
+Technology, Innovation & Partnerships (TIP)
 National Center for Science & Engineering Statistics (NCSES)
 National Science Board (NSB)
 Science and Technology Centers: Integrative Partnerships
@@ -147,7 +148,9 @@ Center for Transformative Explorations in Multi-Physics and Engineering of Scien
 2535317
 Center for Genome Intelligence Engineering (GENIE), Award
 2535350
-Center for Human and Robot Co-Adaptation, Award
+Center for Human and Robot Co-Adaptation
+(HRC)
+, Award
 2535195
 Class of 2023
 Science and Technology Center for Quantitative Cell Biology (
@@ -661,7 +664,7 @@ Top
 Publication date:
 June 30, 2022
 Last updated:
-September 23, 2026
+September 28, 2026
 Randolph Building
 401 Dulany Street
 Alexandria, VA 22314
