@@ -100,15 +100,17 @@ Technology, Innovation & Partnerships (TIP)
 National Center for Science & Engineering Statistics (NCSES)
 National Science Board (NSB)
 Science and Technology Centers: Integrative Partnerships
-View guidelines
-NSF 24-594
+Status: Archived
 View image credit
 Home
 Funding at NSF
 Funding Search
 Science and Technology Centers: Integrative Partnerships
+NSF 24-594
 Print
 this Page
+Archived funding opportunity
+This document has been archived.
 Important information for proposers and award recipients
 All proposals must be submitted in accordance with the requirements specified in the funding opportunity and in the
 Proposal & Award Policies & Procedures Guide (PAPPG) and its supplements
@@ -119,7 +121,6 @@ award terms and conditions
 NSF has updated its
 research security policies
 for NSF funded projects.
-Supports large-scale, long-term projects that focus on creating new scientific paradigms, establishing new scientific disciplines and developing transformative technologies while engaging the full spectrum of diverse talent that society has to offer.
 Supports large-scale, long-term projects that focus on creating new scientific paradigms, establishing new scientific disciplines and developing transformative technologies while engaging the full spectrum of diverse talent that society has to offer.
 Synopsis
 The Science and Technology Centers (STC): Integrative Partnerships program supports exceptionally innovative, complex research and education projects that require large-scale, long-term awards. STCs focus on creating new scientific paradigms, establishing entirely new scientific disciplines, and developing transformative technologies which have the potential for broad scientific or societal impact. STCs conduct world-class research through partnerships among institutions of higher education, national laboratories, industrial organizations, other public or private entities
@@ -159,32 +160,10 @@ Directorate for Geosciences (GEO)
 Directorate for Mathematical and Physical Sciences (MPS)
 Directorate for Social, Behavioral and Economic Sciences (SBE)
 Office of International Science and Engineering (OD/OISE)
+Program status: Archived
+Program 24-594 was archived.
 Program guidelines
-Award information
-Up to $ 30,000,000 annually, subject to the appropriation of funds.
-Estimated number of awards
-5
-Estimated number of awards description
--
-Centers.
-Each award will be made as a cooperative agreement to the lead institution, with an initial commitment for five years of support and a possibility of continuation for five additional years.
-Number of awards is approximate and subject
-to availability of funds in FY2026.
-Proposals may only be submitted by certain types of organizations. Please see solicitation for details.
-Limit on number of proposals per organization
-3
-Limit on number of proposals per organization description
--
-A single organization may submit a maximum of three preliminary proposals as the lead institution. Full proposals are to be submitted only when invited by NSF. There is no limit on the number of proposals in which an organization participates as a partner institution. The STC program will not support more than one Center from any one lead institution in this competition.
-Proposals may only be submitted by certain types of PIs. Please see solicitation for details.
-Limit on number of proposals per PI or Co-PI
-1
-Limit on number of proposals per PI or co-PI description
--
-A PI or co-PI on one proposal in this competition may not be a participant in another STC proposal under review in the same competition. If a proposal is declined at any stage of the review process, a PI or co-PI on the declined proposal may then participate in another STC proposal. This eligibility constraint will be strictly enforced. In the event that an individual exceeds this limit, proposals will be accepted based on the earliest date and time of proposal submission (i.e., the first compliant proposal received will be accepted and the others will be returned without review).
-There is additional eligibility information. Please see solicitation for details.
-Review full program guidelines and learn how to submit a proposal in the latest solicitation.
-Read the solicitation
+Previous guidelines
 NSF 24-594
 Share
 Share on Facebook
@@ -195,7 +174,7 @@ Top
 Publication date:
 August 8, 2024
 Last updated:
-September 29, 2025
+September 30, 2026
 Randolph Building
 401 Dulany Street
 Alexandria, VA 22314
