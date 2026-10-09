@@ -10,6 +10,7 @@ Also writes status.json (used by the GitHub Pages dashboard in docs/) with
 the current state of every monitored site.
 """
 
+import difflib
 import hashlib
 import json
 import os
@@ -114,6 +115,55 @@ def send_email(subject: str, body: str) -> None:
         server.sendmail(SMTP_USER, [ALERT_EMAIL], msg.as_string())
 
 
+def describe_changes(old: str, new: str, context_words: int = 8,
+                     max_chars: int = 600, max_changes: int = 25) -> str:
+    """Summarize only what changed between two versions of a page.
+
+    Compares word by word (not line by line), because anchored_text
+    sections are stored as a single long line. Each change is shown with
+    a few words of surrounding text so it's clear where on the page it is.
+    """
+    if not old:
+        return "(No previous copy was saved, so the specific changes can't be shown.)"
+
+    old_words, new_words = old.split(), new.split()
+    matcher = difflib.SequenceMatcher(None, old_words, new_words, autojunk=False)
+
+    def clip(text: str) -> str:
+        return text if len(text) <= max_chars else text[:max_chars].rstrip() + " ..."
+
+    changes = []
+    for op, i1, i2, j1, j2 in matcher.get_opcodes():
+        if op == "equal":
+            continue
+        before = " ".join(new_words[max(0, j1 - context_words):j1])
+        after = " ".join(new_words[j2:j2 + context_words])
+        where = f"Near: ...{before} [HERE] {after}..."
+        removed = " ".join(old_words[i1:i2])
+        added = " ".join(new_words[j1:j2])
+
+        lines = []
+        if op == "insert":
+            lines.append(f"ADDED:\n  {clip(added)}")
+        elif op == "delete":
+            lines.append(f"REMOVED:\n  {clip(removed)}")
+        else:  # replace
+            lines.append(f"CHANGED FROM:\n  {clip(removed)}")
+            lines.append(f"TO:\n  {clip(added)}")
+        lines.append(where)
+        changes.append("\n".join(lines))
+
+    if not changes:
+        return "(Only spacing or formatting changed; no wording changes.)"
+
+    shown = changes[:max_changes]
+    header = f"{len(changes)} change(s) found:\n"
+    body = "\n\n".join(f"{n}. {c}" for n, c in enumerate(shown, 1))
+    if len(changes) > max_changes:
+        body += f"\n\n...and {len(changes) - max_changes} more. See the page for full details."
+    return header + "\n" + body
+
+
 def check_site(site: dict, now_iso: str) -> dict:
     """Returns a status dict for this site, and sends email if changed."""
     site_id = site["id"]
@@ -159,8 +209,7 @@ def check_site(site: dict, now_iso: str) -> dict:
         old_content = snapshot_file.read_text() if snapshot_file.exists() else ""
         body = (
             f"{site['name']} has changed:\n{site['url']}\n\n"
-            f"--- Current content ---\n{content}\n\n"
-            f"--- Previous content ---\n{old_content}\n"
+            f"{describe_changes(old_content, content)}\n"
         )
         send_email(f"[Website Watcher] {site['name']} updated", body)
 
