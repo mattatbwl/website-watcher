@@ -114,6 +114,13 @@
       "mode": "anchored_text",
       "start_marker": "Announcements",
       "end_marker": "About PD&R"
+    },
+    {
+      "id": "bsi-cb-301-offsite-mmc",
+      "name": "BSI CB/301 - Offsite and Modern Methods of Construction",
+      "url": "https://standardsdevelopment.bsigroup.com/committees/50302446",
+      "notes": "BSI committee CB/301 (UK mirror for ISO/TC 59/SC 19, Prefabricated Building). Watching for standards moving between In Progress, Published, and Withdrawn. Added 2026-10-09.",
+      "mode": "full_text"
     }
   ]
 }
