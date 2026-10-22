@@ -7,21 +7,21 @@
       "notes": "University of Denver - Center for Housing Research and Innovative Solutions (CHRIS). Solomon Greene - Founding Executive Director, CHRIS at University of Denver",
       "mode": "full_text"
     },
-     {
+    {
       "id": "DU Center for Housing - team",
       "name": "DU Center for Housing - team",
       "url": "https://www.du.edu/center-for-housing/team",
       "notes": "University of Denver - Center for Housing Research and Innovative Solutions (CHRIS). Solomon Greene - Founding Executive Director, CHRIS at University of Denver",
       "mode": "full_text"
     },
-     {
+    {
       "id": "DU Center for Housing - news",
       "name": "DU Center for Housing - news",
       "url": "https://www.du.edu/center-for-housing/news",
       "notes": "University of Denver - Center for Housing Research and Innovative Solutions (CHRIS). Solomon Greene - Founding Executive Director, CHRIS at University of Denver",
       "mode": "full_text"
     },
-     {
+    {
       "id": "DU Center for Housing - research",
       "name": "DU Center for Housing - research",
       "url": "https://www.du.edu/center-for-housing/research",
@@ -116,6 +116,31 @@
       "mode": "anchored_text",
       "start_marker": "Committee standards activity",
       "end_marker": "© The British Standards Institution"
+    },
+    {
+      "id": "ohio-bbs-iu-manufacturers",
+      "name": "Ohio BBS Industrialized Unit Manufacturers",
+      "url": "https://com.ohio.gov/divisions-and-programs/industrial-compliance/boards/board-of-building-standards/industrialized-units/industrialized-unit-manufacturers",
+      "notes": "State industrialized unit manufacturer roster; CfOC Research datasets work. From MF on 261022. Page links the list PDF (dico_bbs_IUManufacturerList.pdf); PDF content itself is not diffed.",
+      "mode": "full_text"
+    },
+    {
+      "id": "pa-dced-manufacturers-list",
+      "name": "PA DCED Industrialized Housing Manufacturers List",
+      "url": "https://dced.pa.gov/housing-and-development/website-list-of-manufacturers/",
+      "notes": "State industrialized unit manufacturer roster; CfOC Research datasets work. From MF on 261022. HTML table (about 115 rows) of manufacturer, approval scope, evaluation and inspection agency.",
+      "mode": "anchored_text",
+      "start_marker": "The Manufacturers List is available as an Excel file.",
+      "end_marker": "SHARE"
+    },
+    {
+      "id": "tdlr-ihb-registrant-lists",
+      "name": "Texas TDLR IHB Registrant Lists",
+      "url": "https://www.tdlr.texas.gov/ihb/ihblists.htm",
+      "notes": "State industrialized unit manufacturer roster; CfOC Research datasets work. From MF on 261022. Index page of IHB list PDFs; catches added or removed lists only, not changes inside the PDFs.",
+      "mode": "anchored_text",
+      "start_marker": "All lists are sorted alphabetically by name.",
+      "end_marker": "About This Site"
     }
   ]
 }
