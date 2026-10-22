@@ -115,7 +115,7 @@
       "notes": "BSI committee CB/301 (UK mirror for ISO/TC 59/SC 19, Prefabricated Building). Watching the standards list (In Progress, Published, Withdrawn) and committee membership. Added 2026-10-09.",
       "mode": "anchored_text",
       "start_marker": "Committee standards activity",
-      "end_marker": "\u00a9 The British Standards Institution"
+      "end_marker": "© The British Standards Institution"
     },
     {
       "id": "ohio-bbs-iu-manufacturers",
@@ -173,7 +173,7 @@
     {
       "id": "sam-navfac-ota2-mci-east",
       "name": "SAM: NAVFAC OTA 2 MCI East barracks (df172d46)",
-      "url": "https://sam.gov/opp/df172d4691bd481e87d9bade82a8f99c/view",
+      "url": "https://sam.gov/api/prod/opps/v2/opportunities/df172d4691bd481e87d9bade82a8f99c",
       "notes": "OTA 2, N4008526R0276. CfOC questions sent Oct 19. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
       "mode": "full_text"
     },
