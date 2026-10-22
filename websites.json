@@ -145,70 +145,70 @@
     {
       "id": "sam-navfac-fy27-ic-special-notice",
       "name": "SAM: NAVFAC FY27 IC Special Notice (cc1f2fe2)",
-      "url": "https://sam.gov/opp/cc1f2fe256834eac8edf452d2d1121ce/view",
+      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=NAVFAC+Special+Notice+of+FY+2027+Industrialized+Construction",
       "notes": "Program notice for OTA 1-4 (barracks, CDCs), updated version. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
       "mode": "full_text"
     },
     {
       "id": "sam-navfac-fy27-ic-special-notice-alt",
       "name": "SAM: NAVFAC FY27 IC Special Notice (01f4c64f)",
-      "url": "https://sam.gov/opp/01f4c64f2229452f8b0d4760b977f43f/view",
+      "url": "https://sam.gov/api/prod/opps/v2/opportunities/01f4c64f2229452f8b0d4760b977f43f",
       "notes": "Same program notice under the ID cited in the AOIs; watch both until the current record is confirmed. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
       "mode": "full_text"
     },
     {
       "id": "sam-navfac-ota1-pendleton",
       "name": "SAM: NAVFAC OTA 1 Camp Pendleton barracks (ebf01100)",
-      "url": "https://sam.gov/opp/ebf011001b9d4227886195c8d28d653f/view",
+      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=N6247326R0072",
       "notes": "OTA 1, N6247326R0072, updated record. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
       "mode": "full_text"
     },
     {
       "id": "sam-navfac-ota1-pendleton-alt",
       "name": "SAM: NAVFAC OTA 1 Camp Pendleton barracks (78a4aea3)",
-      "url": "https://sam.gov/opp/78a4aea302114be581b8bf8ed4f53c7c/view",
+      "url": "https://sam.gov/api/prod/opps/v2/opportunities/78a4aea302114be581b8bf8ed4f53c7c",
       "notes": "OTA 1, N6247326R0072, older ID seen in search results. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
       "mode": "full_text"
     },
     {
       "id": "sam-navfac-ota2-mci-east",
       "name": "SAM: NAVFAC OTA 2 MCI East barracks (df172d46)",
-      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&q=N4008526R0276",
+      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=N4008526R0276",
       "notes": "OTA 2, N4008526R0276. CfOC questions sent Oct 19. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
       "mode": "full_text"
     },
     {
       "id": "sam-navfac-ota4-cdcs",
       "name": "SAM: NAVFAC OTA 4 Navy CDCs (73be42a2)",
-      "url": "https://sam.gov/opp/73be42a26db244d386a6f8477d6b0532/view",
+      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=N6247027R0003",
       "notes": "OTA 4, N6247027R0003; questions due Oct 27. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
       "mode": "full_text"
     },
     {
       "id": "sam-ussf-construction-cso",
       "name": "SAM: USSF Construction CSO 2808a (f7234db5)",
-      "url": "https://sam.gov/opp/f7234db50b18412da39fb549158d9e89/view",
+      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=USSF-CSO-FY26-2808A",
       "notes": "Space Force master CSO USSF-CSO-FY26-2808A, updated record. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
       "mode": "full_text"
     },
     {
       "id": "sam-vsfb-fy27-pdbota",
       "name": "SAM: Vandenberg PDB-OTA RFI VSFB-FY27-PDBOTA (fdbcf41c)",
-      "url": "https://sam.gov/opp/fdbcf41cfbef450f9b4d290d1d1fd976/view",
+      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=VSFB-FY27-PDBOTA",
       "notes": "Vandenberg SFB progressive design-build OTA market research; shared by Randall Thompson at MBI R&D on 261014. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
       "mode": "full_text"
     },
     {
       "id": "sam-usace-savannah-ic-survey",
       "name": "SAM: USACE Savannah IC market survey W912HN26MITSF (252caa8e)",
-      "url": "https://sam.gov/opp/252caa8e84004c2a8151e65e3a45b41d/view",
+      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=W912HN26MITSF",
       "notes": "USACE Savannah District industrialized construction market survey. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
       "mode": "full_text"
     },
     {
       "id": "sam-search-navfac-ic-barracks-otas",
       "name": "SAM search: NAVFAC IC barracks OTAs (watch for OTA 3 MCI West)",
-      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&q=%22Industrialized+Construction+Projects+for+Barracks%22",
+      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=Projects+for+Barracks+via+Other+Transaction+Authority",
       "notes": "SAM search feed for the NAVFAC FY27 IC barracks AOI title pattern; alerts when a new OTA (e.g., OTA 3 MCI West) or version posts. From MF on 261022.",
       "mode": "full_text"
     }
