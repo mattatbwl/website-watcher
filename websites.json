@@ -172,9 +172,9 @@
     },
     {
       "id": "sam-navfac-ota2-mci-east",
-      "name": "SAM: NAVFAC OTA 2 MCI East barracks (df172d46)",
+      "name": "SAM: NAVFAC OTA 2 MCI East barracks N4008526R0276",
       "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=N4008526R0276",
-      "notes": "OTA 2, N4008526R0276. CfOC questions sent Oct 19. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
+      "notes": "OTA 2, N4008526R0276. Current record (Rev. 10/13): https://sam.gov/opp/848ea542dcdd4b519d8be0bfcd017870/view (earlier version df172d46...). Watched via the SAM search feed by solicitation number, so new versions with new IDs are caught. CfOC questions sent Oct 19; response date Oct 29. NAVFAC/DoD 2808a IC OTA tracking. From MF on 261022.",
       "mode": "full_text"
     },
     {
