@@ -1,1 +1,326 @@
-SAM.gov
+{"data2":{"type":"s","award":{},"title":"NAVFAC Special Notice of FY 2027 Industrialized Construction Projects for Barracks and Child Development Centers via Other Transaction Authority (10 USC 2808a)","archive":{"date":"2026-10-01","type":"autocustom"},"version":"2","permissions":{"IVL":{"read":true,"create":true,"delete":true,"update":true}},"solicitation":{"deadlines":{}},"organizationId":"100216811","pointOfContact":[{"fax":null,"type":"primary","email":"allison.b.silver.civ@us.navy.mil","phone":null,"title":null,"fullName":"Allison Silver"},{"fax":null,"type":"secondary","email":"jermaine.n.hector.civ@us.navy.mil","phone":null,"title":null,"fullName":"Jermaine Hector"}],"placeOfPerformance":null,"solicitationNumber":""},"additionalInfo":{"sections":[{"id":"header","status":"updated"},{"id":"general","status":"updated"},{"id":"classification","status":"updated"},{"id":"description","status":"updated"},{"id":"attachments-links","status":"updated"},{"id":"contact","status":"updated"}]},"parent":{},"related":{},"status":{"code":"published","value":"Published"},"archived":false,"cancelled":false,"latest":false,"deleted":false,"postedDate":"2026-07-01T14:31:50.546+00:00","modifiedDate":"2026-09-18T18:09:32.066+00:00","createdDate":"2026-06-25T15:45:51.173+00:00","modifiedBy":"allison.silver@navy.mil","createdBy":"allison.silver@navy.mil","description":[{"opportunityId":"01f4c64f2229452f8b0d4760b977f43f","descriptionId":"f8a700169f78494191de0a1fe32c6812","modifiedOn":"2026-07-01T14:31:50.552+00:00","body":"
+This notice does NOT constitute a request for proposal, request for quote, or invitation for bid. The Government IS NOT awarding a contract or agreement directly from or as a result of this notification. This notification is solely for the purposes of advising industry of possible future Department of the Navy construction projects that are anticipated to use Other Transaction Authority (OTA). It is anticipated that any future awards of these projects using OTA will include applicable statutes (e.g. Davis-Bacon, Buy American Act, Miller Act, etc.).
+\n\n
+The core objective is to deliver high-quality, energy-efficient, and resilient facilities while accelerating delivery timelines and reducing both construction and lifecycle costs. Optimal solutions will be scalable and repeatable modular design and using a construction methodology that achieves increased quality, durability, and lifecycle performance compared to traditional construction. The projects being considered will be required to utilize advanced manufacturing and/or Industrialized Construction (IC) methods.
+\n\n
+NAVFAC is posting a Special Notice to notify potential offerors of anticipated construction projects that will utilize an OTA as authorized by 10 USC § 2808a to procure new barracks and child development centers (CDCs).
+\n\n
+OTA 1: MCB Camp Pendleton, CA (Total ~655,957 Square Feet (SF), 10 Buildings)
+\n\n
+\n\t
+\n\t
+Four (4) Bachelor Enlisted Quarters (BEQs), each 401 rooms (253,382 SF). Repair By Replacement including demolition of existing.
+\n\t
+\n
+\n\n
+\n\t
+\n\t
+Three (3) BEQs, each 261 rooms (174,470 SF). Repair By Replacement including demolition of existing.
+\n\t
+\n
+\n\n
+\n\t
+\n\t
+Three (3) BEQs, each 361 rooms (228,105 SF). Repair By Replacement including demolition of existing.
+\n\t
+\n
+\n\n
+\n\n
+OTA 2: MCI East Barracks (Total ~1,723,259 SF, 12 Buildings)
+\n\n
+\n\t
+\n\t
+MCB Camp Lejeune
+\n\n\t
+\n\t\t
+\n\t\t
+BEQ - French Creek, 400 rooms (241,230 SF)
+\n\t\t
+\n\t\t
+\n\t\t
+BEQ - Camp Geiger 2, 120 rooms (71,424 SF)
+\n\t\t
+\n\t\t
+\n\t\t
+BEQ - Hadnot Point, 144 rooms (85,709 SF)
+\n\t\t
+\n\t\t
+\n\t\t
+BEQ - Camp Geiger, 200 rooms (119,049 SF)
+\n\t\t
+\n\t\t
+\n\t\t
+Replace BEQs, 186 rooms (119,049 SF)
+\n\t\t
+\n\t\t
+\n\t\t
+BEQ – Hadnot Point, 120 rooms (71,424 SF)
+\n\t\t
+\n\t\t
+\n\t\t
+BEQ – New River, 200 rooms (120,125 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+MCAS Cherry Point
+\n\n\t
+\n\t\t
+\n\t\t
+Two (2) BEQs, each 296 rooms (176,120 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+MCRD Parris Island
+\n\n\t
+\n\t\t
+\n\t\t
+Recruit Barracks - 1st Battalion (Open Bay), 1,320 rooms (385,512 SF)
+\n\t\t
+\n\t\t
+\n\t\t
+Recruit Barracks - 3rd Battalion (Open Bay), 330 rooms (95,648 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+MCB Quantico
+\n\n\t
+\n\t\t
+\n\t\t
+TBS BEQ, 110 rooms (61,849 SF)
+\n\t\t
+\n\t
+\n\t
+\n
+\n\n
+\n\n
+OTA 3: MCI West Barracks (Total ~692,783 SF, 7 Buildings)
+\n\n
+\n\t
+\n\t
+MCAGCC 29 Palms
+\n\n\t
+\n\t\t
+\n\t\t
+Two (2) BEQs, each 192 rooms (105,206 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+Camp Pendleton
+\n\n\t
+\n\t\t
+\n\t\t
+BEQ, 200 rooms (110,219 SF)
+\n\t\t
+\n\t\t
+\n\t\t
+BEQ, 100 rooms (42,152 SF)
+\n\t\t
+\n\t\t
+\n\t\t
+BEQ - 41 Area, 200 rooms (110,000 SF)
+\n\t\t
+\n\t\t
+\n\t\t
+Two (2) BEQs - 62 Area, each 200 rooms (110,000 SF)
+\n\t\t
+\n\t
+\n\t
+\n
+\n\n
+\n\n
+OTA 4: Navy CDCs (Total ~324,919 SF, 10 Buildings)
+\n\n
+\n\t
+\n\t
+Naval Base San Diego
+\n\n\t
+\n\t\t
+\n\t\t
+CDC, 300 Children (36,020 SF)
+\n\t\t
+\n\t\t
+\n\t\t
+Murphy Canyon II CDC Addition, 300 Children (9,341 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+NAS Oceana, VA
+\n\n\t
+\n\t\t
+\n\t\t
+CDC, 300 Children (42,290 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+NSA Hampton Roads, VA
+\n\n\t
+\n\t\t
+\n\t\t
+CDC, 200 Children (42,643 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+Naval Station Norfolk, VA
+\n\n\t
+\n\t\t
+\n\t\t
+CDC, 150 Children (29,601 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+JEB Little Creek–Fort Story, VA
+\n\n\t
+\n\t\t
+\n\t\t
+CDC, 200 Children (24,317 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+NSA Washington, DC Area
+\n\n\t
+\n\t\t
+\n\t\t
+CDC, 300 Children (28,008 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+Naval Base Coronado, CA
+\n\n\t
+\n\t\t
+\n\t\t
+CDC, 176 Children (37,083 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+NAS Jacksonville, FL
+\n\n\t
+\n\t\t
+\n\t\t
+CDC, 475 Children (33,616 SF)
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+NAWS China Lake, CA
+\n\n\t
+\n\t\t
+\n\t\t
+CDC, 300 Children (42,000 SF)
+\n\t\t
+\n\t
+\n\t
+\n
+\n\n
+\n\n
+Core Objectives and Requirements for the IC Projects:
+\n\n
+\n\t
+\n\t
+Advanced Manufacturing & Methodology
+\n\n\t
+\n\t\t
+\n\t\t
+Methodology Implementation: Utilize explicitly defined advanced manufacturing and IC methodologies (such as volumetric modular, hybrid, and/or Kit of Parts) to deliver high-performing, durable barracks and CDCs.
+\n\t\t
+\n\t\t
+\n\t\t
+Standardization: Implement a Modular Open Systems Approach (MOSA) architecture with open, standardized interfaces to accelerate future upgrades and minimize long-term lifecycle costs.
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+Compliance & Standards
+\n\n\t
+\n\t\t
+\n\t\t
+DoD Standards: Deliver barracks that meet or exceed traditional DoD Unified Facility Criteria (UFC) and Whole Building Design Guide (WBDG) standards.
+\n\n\t\t
+\n\t\t\t
+\n\t\t\t
+All barracks will be 2+0 unless specified in the project list, as referenced in FC 4-721-10N Navy and Marine Corps Unaccompanied Housing, with Change 2 (available via WBDG).
+\n\t\t\t
+\n\t\t
+\n\t\t
+\n\t\t
+\n\t\t
+Commercial Alternatives: Alternative commercial building methods may be considered only where strictly proven equivalency or superiority is demonstrated regarding:
+\n\n\t\t
+\n\t\t\t
+\n\t\t\t
+Durability and longevity
+\n\t\t\t
+\n\t\t\t
+\n\t\t\t
+Life/Safety requirements
+\n\t\t\t
+\n\t\t\t
+\n\t\t\t
+Force protection
+\n\t\t\t
+\n\t\t
+\n\t\t
+\n\t
+\n\t
+\n
+\n\n
+\n\t
+\n\t
+Integrated Project Delivery
+\n\n\t
+\n\t\t
+\n\t\t
+Process Integration: Seamlessly integrate Design, Manufacturing, Assembly, and Onsite Construction activities into a highly streamlined and coordinated project delivery approach.
+\n\t\t
+\n\t\t
+\n\t\t
+Proven ability to deliver projects of similar size, scope and complexity.
+\n\t\t
+\n\t
+\n\t
+\n\t
+\n\t
+Schedule & Cost Control
+\n\n\t
+\n\t\t
+\n\t\t
+Accelerated Timelines: Significantly reduced design and build timelines compared to traditional commercial construction.
+\n\t\t
+\n\t\t
+\n\t\t
+Predictability: Greater cost predictability and budget certainty achieved through early vendor engagement, integrated solution development, and standardized, repeatable construction methodologies.
+\n\t\t
+\n\t\t
+\n\t\t
+Cost Efficiency: Reduced design and construction costs compared to traditional commercial construction methods.
+\n\t\t
+\n\t
+\n\t
+\n
+\n\n
+\n\n
+Offerors will be able to view and/or download the announcements, and any attachments, at https://www.sam.gov under “Contract Opportunities” when they become available.
+\n"}],"totalCount":1,"_links":{"self":{"href":"/opps/v2/opportunities/01f4c64f2229452f8b0d4760b977f43f"},"opportunity:publish:latest":{"href":"/opps/v2/opportunities/cc1f2fe256834eac8edf452d2d1121ce"}},"opportunityId":"01f4c64f2229452f8b0d4760b977f43f","id":"01f4c64f2229452f8b0d4760b977f43f"}
