@@ -130,7 +130,7 @@
       "url": "https://dced.pa.gov/housing-and-development/website-list-of-manufacturers/",
       "notes": "State industrialized unit manufacturer roster; CfOC Research datasets work. From MF on 261022. HTML table (about 115 rows) of manufacturer, approval scope, evaluation and inspection agency.",
       "mode": "anchored_text",
-      "start_marker": "The Manufacturers List is available as an Excel file.",
+      "start_marker": "Manufacturers List is available as an Excel file",
       "end_marker": "SHARE"
     },
     {
