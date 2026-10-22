@@ -159,8 +159,8 @@
     {
       "id": "sam-navfac-ota1-pendleton",
       "name": "SAM: NAVFAC OTA 1 Camp Pendleton barracks (ebf01100)",
-      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=N6247326R0072",
-      "notes": "OTA 1, N6247326R0072, updated record. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
+      "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&qMode=EXACT&q=N6247326R0072",
+      "notes": "OTA 1, N6247326R0072, updated record. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022. Search feed without the active-only filter: the AOI went inactive after white papers closed Oct 1, but Phase 2 updates may still post.",
       "mode": "full_text"
     },
     {
@@ -200,9 +200,9 @@
     },
     {
       "id": "sam-usace-savannah-ic-survey",
-      "name": "SAM: USACE Savannah IC market survey W912HN26MITSF (252caa8e)",
+      "name": "SAM: USACE Savannah hangar market intelligence W912HN26MITSF",
       "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=W912HN26MITSF",
-      "notes": "USACE Savannah District industrialized construction market survey. NAVFAC/DoD 2808a IC OTA tracking (NAVFAC MOSA questions, CfOC interested-party lists). From MF on 261022.",
+      "notes": "USACE Savannah District market intelligence notice for hangar construction (hybrid conventional and tension fabric); mentions industrialized construction approaches and possible 10 USC 2808a use. From MF on 261022.",
       "mode": "full_text"
     },
     {
