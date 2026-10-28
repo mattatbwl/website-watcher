@@ -211,6 +211,13 @@
       "url": "https://sam.gov/api/prod/sgs/v1/search/?index=opp&page=0&sort=-modifiedDate&size=25&mode=search&is_active=true&qMode=EXACT&q=Projects+for+Barracks+via+Other+Transaction+Authority",
       "notes": "SAM search feed for the NAVFAC FY27 IC barracks AOI title pattern; alerts when a new OTA (e.g., OTA 3 MCI West) or version posts. From MF on 261022.",
       "mode": "full_text"
+    },
+    {
+      "id": "bsi-iso-25192-public-comments",
+      "name": "BSI public comment: BS EN ISO 25192 (volumetric prefabricated building)",
+      "url": "https://standardsdevelopment.bsigroup.com/projects/2024-02476",
+      "notes": "BSI public commenting page for BS EN ISO 25192, Prefabricated building, Volumetric prefabricated building, concepts and general principles (CB/301). Comment period Oct 27 to Dec 29, 2026; 0 comments as of Oct 28. Watching for comment count, dates, and status changes. From MF on 261028.",
+      "mode": "full_text"
     }
   ]
 }
