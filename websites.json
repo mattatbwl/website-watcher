@@ -225,6 +225,13 @@
       "url": "https://www.enr.com/future-tech/call-for-speakers",
       "notes": "ENR FutureTech call for speakers page (2027 call closed Oct 30, 2026; we are not submitting for 2027). Watching for the FutureTech 2028 call, expected Sept/Oct 2027. From MF on 261029.",
       "mode": "full_text"
+    },
+    {
+      "id": "hud-news",
+      "name": "HUD News (press releases)",
+      "url": "https://www.hud.gov/news",
+      "notes": "HUD press releases and testimony; requested by Matt Ford on 261106",
+      "mode": "full_text"
     }
   ]
 }
