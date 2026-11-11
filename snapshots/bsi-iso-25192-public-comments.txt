@@ -43,11 +43,15 @@ Structures. Other
 Comment period start date:
 27/10/2026
 Comment period end date:
-29/12/2026
+20/12/2026
 Number of comments:
 0
 Comment by:
-29th Dec
+20th Dec
+Scope
+This document defines and classifies the key concepts related to permanent volumetric prefabricated buildings and establishes general principles from the perspective of the whole life cycle, including design, manufacturing, construction and installation, operation and maintenance. The issues of intelligent systems, and sustainable development are also considered.
+NOTE The principles outlined in this document are intended for broad application in volumetric prefabricated buildings; specific applications should refer to the detailed provisions of relevant documents.
+Read draft and comment
 Follow
 ?
 Tick this box to be notified of changes to this standard.
@@ -104,7 +108,7 @@ Draft start date:
 Public Comments start date:
 27/10/2026
 Public Comments end date:
-29/12/2026
+20/12/2026
 4. Comment Resolution
 Comment Resolution start date:
 30/06/2027
