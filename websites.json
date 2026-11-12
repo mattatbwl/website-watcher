@@ -232,6 +232,13 @@
       "url": "https://www.hud.gov/news",
       "notes": "HUD press releases and testimony; requested by Matt Ford on 261106",
       "mode": "full_text"
+    },
+    {
+      "id": "cbna-news",
+      "name": "Center for Building in North America (CBNA) news",
+      "url": "https://centerforbuilding.org/news",
+      "notes": "CBNA (Stephen Smith) news and posts: single-stair, elevators, plumbing standards, code reform; Eddie Palka's forthcoming CBNA report on regulatory barriers to modular. From MF on 261112.",
+      "mode": "full_text"
     }
   ]
 }
