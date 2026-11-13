@@ -239,6 +239,27 @@
       "url": "https://centerforbuilding.org/news",
       "notes": "CBNA (Stephen Smith) news and posts: single-stair, elevators, plumbing standards, code reform; Eddie Palka's forthcoming CBNA report on regulatory barriers to modular. From MF on 261112.",
       "mode": "full_text"
+    },
+    {
+      "id": "same-newsroom",
+      "name": "SAME Newsroom",
+      "url": "https://www.same.org/news-resources/news/",
+      "notes": "SAME news, event recaps and calls for presentations; watch for SBC 2026 recap and ACM Working Group items. From MF on 261113.",
+      "mode": "full_text"
+    },
+    {
+      "id": "same-jetc-2027",
+      "name": "SAME JETC 2027 (call for presentations)",
+      "url": "https://www.samejetc.org/",
+      "notes": "Page says the JETC 2027 (Milwaukee, May 18-20 2027) call for presentations opens Nov 2026. Watch for the call link and deadline. From MF on 261113.",
+      "mode": "full_text"
+    },
+    {
+      "id": "same-sbc",
+      "name": "SAME Federal Small Business Conference (SBC)",
+      "url": "https://www.same.org/sbc",
+      "notes": "Still shows SBC 2026 Charlotte; will change when SBC 2027 (St. Louis, Nov 17-19 2027) and its call for presentations go up. From MF on 261113.",
+      "mode": "full_text"
     }
   ]
 }
