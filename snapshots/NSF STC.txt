@@ -155,15 +155,17 @@ The STC program was established by the National Science Board in 1987, and the f
 Over its history, the STC portfolio has invested in creating new scientific and technological models in a wide variety of topics across NSF areas of research. Together, the active and graduated centers demonstrate the program's long-standing investment, as indicated in the links below.
 Active centers
 Class of 2026
-Center for Transformative Explorations in Multi-Physics and Engineering of Scientific Turbulence
-(TEMPEST)
-, Award
+Center for Transformative Explorations in Multi-Physics and Engineering of Scientific Turbulence (
+TEMPEST
+), Award
 2535317
-Center for Genome Intelligence Engineering (GENIE), Award
+Center for Genome Intelligence Engineering (
+GENIE
+), Award
 2535350
-Center for Human and Robot Co-Adaptation
-(HRC)
-, Award
+Center for Human and Robot Co-Adaptation (
+HRC
+), Award
 2535195
 Class of 2023
 Science and Technology Center for Quantitative Cell Biology (
@@ -174,13 +176,13 @@ New Frontiers of Sound Science and Technology Center (
 NewFoS
 ), Award
 2242925
-Center for Complex Particle Systems
-(COMPASS),
-Award
+Center for Complex Particle Systems (
+COMPASS
+), Award
 2243104
-Center for Braiding Indigenous Knowledges and Science
-(CBIKS),
-Award
+Center for Braiding Indigenous Knowledges and Science (
+CBIKS
+), Award
 2243258
 Class of 2021
 Center for Chemical Currencies of a Microbial Planet (
@@ -677,7 +679,7 @@ Top
 Publication date:
 June 30, 2022
 Last updated:
-September 30, 2026
+November 18, 2026
 Randolph Building
 401 Dulany Street
 Alexandria, VA 22314
